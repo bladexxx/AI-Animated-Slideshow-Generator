@@ -1,0 +1,5 @@
+{
+  "name": "AI Animated Slideshow Generator",
+  "description": "An intelligent application that takes multiple images, uses AI to generate a theme and title, and creates a beautiful animated slideshow ready to be recorded and embedded in presentations.",
+  "requestFramePermissions": []
+}
