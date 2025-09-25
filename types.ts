@@ -1,4 +1,3 @@
-
 export enum SlideshowTheme {
   Calm = 'calm',
   Energetic = 'energetic',
@@ -6,7 +5,10 @@ export enum SlideshowTheme {
 }
 
 export interface SlideshowConfig {
-  title: string;
+  title: {
+    en: string;
+    zh: string;
+  };
   theme: SlideshowTheme;
 }
 
